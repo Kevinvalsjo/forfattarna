@@ -17,8 +17,7 @@ public class Main {
         myuser.namn = tangentbord.next();
         System.out.println(myuser.namn);
         String test = "y";
-
-     /* while (test.equalsIgnoreCase("Y")) {
+        /* while (test.equalsIgnoreCase("Y")) {
             //myuser.count();
            test = tangentbord.nextLine();
 
